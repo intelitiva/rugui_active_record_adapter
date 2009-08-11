@@ -1,3 +1,1 @@
-= Description
-
-This is a plugin for RuGUI applications based on database. This plugin uses ActiveRecord to access the database.
+DEPRECATED: This repository has been moved to http://github.com/rugui/rugui_active_record_adapter
